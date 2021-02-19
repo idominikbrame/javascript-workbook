@@ -1,1 +1,1 @@
-console.log("hello Data Types")
+console.log("hello Data Types"); 
